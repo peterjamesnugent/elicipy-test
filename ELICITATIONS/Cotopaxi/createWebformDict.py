@@ -1,7 +1,7 @@
 # select 'github', 'local' or 'local_github'
 datarepo = 'github'
 
-datarepo = `eclipy-repo-data`
+datarepo = 'eclipy-repo-data'
 
 # Github repository for answers, used only when datarepo='local' or 'local_github'
 # RepositoryData = ''
